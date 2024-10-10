@@ -1,0 +1,14 @@
+Required Python Libraries:
+Tkinter: Comes pre-installed with Python, but if you're using Linux, install via apt.
+OpenCV: For face detection.
+TensorFlow & Keras: For loading and running the nationality detection model.
+Pillow: For handling image files in Tkinter.
+NumPy: For numerical operations.
+Scikit-learn: (sklearn) for metrics (though not directly used in the provided code, it’s imported).
+Threading: Python built-in, no installation required.
+
+pip install opencv-python-headless tensorflow keras pillow numpy scikit-learn
+all Requirments
+
+
+  thank you..!
